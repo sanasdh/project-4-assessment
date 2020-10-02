@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sanasdh/project-4-assessment.git/static/css/main.48136b3c.chunk.css",
+    "main.js": "/sanasdh/project-4-assessment.git/static/js/main.53965594.chunk.js",
+    "main.js.map": "/sanasdh/project-4-assessment.git/static/js/main.53965594.chunk.js.map",
+    "runtime-main.js": "/sanasdh/project-4-assessment.git/static/js/runtime-main.d9cf4825.js",
+    "runtime-main.js.map": "/sanasdh/project-4-assessment.git/static/js/runtime-main.d9cf4825.js.map",
+    "static/js/2.60ce7510.chunk.js": "/sanasdh/project-4-assessment.git/static/js/2.60ce7510.chunk.js",
+    "static/js/2.60ce7510.chunk.js.map": "/sanasdh/project-4-assessment.git/static/js/2.60ce7510.chunk.js.map",
+    "index.html": "/sanasdh/project-4-assessment.git/index.html",
+    "precache-manifest.afc39abf91267b8e2768bda44a4feabc.js": "/sanasdh/project-4-assessment.git/precache-manifest.afc39abf91267b8e2768bda44a4feabc.js",
+    "service-worker.js": "/sanasdh/project-4-assessment.git/service-worker.js",
+    "static/css/main.48136b3c.chunk.css.map": "/sanasdh/project-4-assessment.git/static/css/main.48136b3c.chunk.css.map",
+    "static/js/2.60ce7510.chunk.js.LICENSE.txt": "/sanasdh/project-4-assessment.git/static/js/2.60ce7510.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9cf4825.js",
+    "static/js/2.60ce7510.chunk.js",
+    "static/css/main.48136b3c.chunk.css",
+    "static/js/main.53965594.chunk.js"
+  ]
+}
